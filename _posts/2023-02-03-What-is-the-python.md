@@ -37,11 +37,9 @@ python, 파이썬은 프로그래밍 언어입니다.
 
 ### 파이썬 설치
 
-하단의 링크로 들어가서 
+하단의 링크로 
 
-Link: [파이썬 홈페이지][pylink]
-
-[pylink] : https://www.python.org
+https://www.python.org
 
  
 Downloads 부분에 마우스포인터를 가져다 대면 
