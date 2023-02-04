@@ -3,8 +3,6 @@ layout: post
 title: "What is the python?"
 date: 2023-02-03
 excerpt: "파이썬이란 무엇일까?"
-tag:
--python
 comments: true
 ---
 
